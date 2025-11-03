@@ -51,7 +51,7 @@ class Split:
 
  
 print(" Welcome To TipZ :D\n")
-print("\n Choose The Mode\n 1. Single Tip\n 2. Split Tip\n")
+print("\n choose the mode yo,\n 1. Single Tip\n 2. Split Tip\n")
 
 def singlelection(): #single tip function
     print("\n Select The Tip Percent\n 1. 10%\n 2. 15%\n 3. 20%\n 4. Enter Manually\n")
